@@ -5,4 +5,4 @@
 
 #### Os dados foram tratados de maneira a alimentar um algoritmo de classificação baseado no modelo de árvores de decisão.
 
-#### O processo está descrito de maneira mais detalhada (com painéis visuais) no arquivo .ipynb presente no repositório.
+#### O processo está descrito de maneira mais detalhada (com painéis visuais) no arquivo *class-cred.ipynb* presente no repositório.
